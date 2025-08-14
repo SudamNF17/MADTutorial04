@@ -33,6 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="48dp"
             android:ems="10"
+            android:hint="Enter Email"
             android:inputType="text|textEmailAddress|textAutoComplete" />
 
         <EditText
@@ -49,6 +50,7 @@
             android:layout_height="48dp"
             android:autoText="false"
             android:ems="10"
+            android:hint="re-enter password"
             android:inputType="textPassword" />
 
         <Button
